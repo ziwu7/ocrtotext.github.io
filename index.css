@@ -1,3 +1,7 @@
+/* body{
+    display:flex;
+
+} */
 .head{
     display:flex;
     justify-content: space-between;
