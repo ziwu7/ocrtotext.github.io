@@ -1,0 +1,35 @@
+.head{
+    display:flex;
+    justify-content: space-between;
+    font-size: large;
+}
+span {
+    padding: 5px 10px; /* 这将同时增加水平和垂直方向的内边距 */
+    
+}
+
+#txt{
+    text-align: center;
+}
+
+img{
+    width: 1000px;
+    height: 600px;
+    display: block; /* 将图片作为块级元素进行处理 */
+    margin: auto;
+}
+.footer{
+    text-align: left;
+    font-size: small;
+    border-top: 3px solid  rgba(128, 128, 128, 0.5); 
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+/* .footer{
+    
+    border-right: none;
+    border-bottom: none;
+    border-left: none;
+    
+} */
